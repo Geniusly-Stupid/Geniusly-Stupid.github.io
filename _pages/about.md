@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website, which is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com).
+This is my personal website.
 
 My Research Orientation
 ======
 1. Machine Learning
 2. Medical Imaging
+
+Reference
+======
+1. [Academic Pages template](https://github.com/academicpages/academicpages.github.io)
+2. [GitHub pages](https://pages.github.com).
